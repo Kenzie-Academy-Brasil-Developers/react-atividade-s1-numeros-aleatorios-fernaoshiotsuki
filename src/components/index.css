@@ -1,0 +1,12 @@
+button {
+  font-size: 25px;
+  background-color: mediumorchid;
+  color: mintcream;
+  padding: 20px 10px;
+  border-radius: 7px;
+  margin-top: 50px;
+}
+
+.App-header {
+  font-size: 50px;
+}
